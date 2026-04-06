@@ -2,6 +2,14 @@
 
 use App\Models\Album;
 use Illuminate\Support\Facades\Auth;
+use function Laravel\Folio\name;
+//use function Laravel\Folio\{mount};
+
+name('albums.show');
+
+//mount(function (Album $album) {
+//    return ['album' => $album];
+//});
 
 new class extends Livewire\Component
 {
