@@ -17,6 +17,7 @@
     ],
     "sail": false,
     "skills": [
+        "folio-routing",
         "laravel-best-practices",
         "fluxui-development",
         "livewire-development",

@@ -10,6 +10,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.3",
+        "laravel/folio": "^1.1",
         "laravel/fortify": "^1.34",
         "laravel/framework": "^13.0",
         "laravel/tinker": "^3.0",
@@ -19,6 +20,7 @@
     "require-dev": {
         "driftingly/rector-laravel": "^2.2",
         "fakerphp/faker": "^1.24",
+        "fruitcake/laravel-debugbar": "^4.2",
         "laravel/boost": "^2.0",
         "laravel/pail": "^1.2.5",
         "laravel/pint": "^1.27",
